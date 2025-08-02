@@ -21,6 +21,6 @@ export function TaskCard(props: TaskCardProps){
                 </div>
             </div>
         </div>
-      </div>
+      </div> 
   );
 }
